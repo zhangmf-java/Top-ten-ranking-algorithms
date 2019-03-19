@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * 选择排序
+ */
 public class SelectionSort {
 
     public static int[] mySort(int[] source){
